@@ -5,7 +5,7 @@
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
-        "php": "^8.0.2",
+        "php": "^8.3.19",
         "africastalking/africastalking": "^3.0",
         "guzzlehttp/guzzle": "^7.8",
         "kutia-software-company/larafirebase": "^1.3",
